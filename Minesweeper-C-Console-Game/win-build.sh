@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-gcc -std=c99 -o minesweeper.exe main.c ulist.c
